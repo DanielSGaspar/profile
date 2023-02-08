@@ -57,6 +57,21 @@ li{
   margin: 0 auto;
 }
 
+.my_btn{
+  background-color: #d59159;
+  color: white;
+  text-decoration: none;
+  transition: background-color 250ms;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.my_btn:hover{
+  background-color: #d6bca5;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
