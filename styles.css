@@ -53,6 +53,7 @@ li{
 .container {
   width: 75%;
   margin: 0 auto;
+  background-image: url('images/one_piece_image.jpeg');
 }
 
 @media (max-width: 960px) {
